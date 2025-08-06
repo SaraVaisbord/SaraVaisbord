@@ -9,8 +9,6 @@ I’m a **curious Software Developer** who believes coding is a creative craft.
 I love diving into new technologies, solving challenges,  
 and crafting clean, maintainable code that makes servers dance 💃.
 
----
-
 ### 🔭 Currently
 - Seeking exciting tech challenges to grow and push my limits
 
