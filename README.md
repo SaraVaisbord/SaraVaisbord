@@ -8,12 +8,12 @@ I specialize in building clean, maintainable, and efficient systems, with a focu
 
 ### 🟣 Tech Stack
 
-* **Languages** 🔹 Java, Python, JavaScript, TypeScript, C#
-* **Backend** 🔹 Node.js, Spring Boot, .NET Core, Web API
-* **Databases** 🔹 PostgreSQL, MongoDB, MySQL
-* **Cloud & DevOps** 🔹 AWS, Terraform (IaC), Kubernetes (K8s), Docker, GitHub Actions
-* **Operating Systems** 🔹 Linux, Windows
-* **AI Tools** 🔹 ChatGPT, GitHub Copilot, Amazon Q, Claude
+* **Languages**  Java, Python, JavaScript, TypeScript, C#
+* **Backend**  Node.js, Spring Boot, .NET Core, Web API
+* **Databases**  PostgreSQL, MongoDB, MySQL, SQL server
+* **Cloud & DevOps**  AWS, Terraform (IaC), Kubernetes (K8s), Docker, GitHub Actions
+* **Operating Systems**  Linux, Windows
+* **AI Tools**  ChatGPT, GitHub Copilot, Amazon Q, Claude
 
 ---
 
@@ -27,5 +27,5 @@ I specialize in building clean, maintainable, and efficient systems, with a focu
 
 ### 📬 Connect with me
 
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/sara-vaisbord-758bb9363/)](https://www.linkedin.com/in/YOUR_PROFILE_NAME)
+* **LinkedIn:** [https://www.linkedin.com/in/sara-vaisbord-758bb9363/](https://www.linkedin.com/in/YOUR_PROFILE_NAME)
 * **Email:** [sara.vaisbord3654@gmail.com](mailto:your-email@example.com)
