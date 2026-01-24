@@ -22,11 +22,3 @@ I specialize in building clean, maintainable, and efficient systems, with a focu
 * 🌌 **Current Focus:** Seeking new professional challenges to grow and contribute to complex systems.
 * 🧬 **Learning:** Always expanding my knowledge in system design and modern architectures.
 * 💎 **Philosophy:** Believing in clean code that is elegant, practical, and easy to maintain.
-
----
-
-### 📬 Connect with me
-
-* **LinkedIn:** [https://www.linkedin.com/in/sara-vaisbord-758bb9363/](https://www.linkedin.com/in/YOUR_PROFILE_NAME)
-* **Email:** [sara.vaisbord3654@gmail.com](mailto:your-email@example.com)
-* **LeetCode:** [saraAlgo](https://leetcode.com/u/SaraAlgo/)
