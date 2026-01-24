@@ -22,3 +22,6 @@ I specialize in building clean, maintainable, and efficient systems, with a focu
 * 🌌 **Current Focus:** Seeking new professional challenges to grow and contribute to complex systems.
 * 🧬 **Learning:** Always expanding my knowledge in system design and modern architectures.
 * 💎 **Philosophy:** Believing in clean code that is elegant, practical, and easy to maintain.
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SaraVaisbord&color=green)
