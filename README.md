@@ -29,3 +29,4 @@ I specialize in building clean, maintainable, and efficient systems, with a focu
 
 * **LinkedIn:** [https://www.linkedin.com/in/sara-vaisbord-758bb9363/](https://www.linkedin.com/in/YOUR_PROFILE_NAME)
 * **Email:** [sara.vaisbord3654@gmail.com](mailto:your-email@example.com)
+* **LeetCode:** [saraAlgo](https://leetcode.com/u/SaraAlgo/)
