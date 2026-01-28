@@ -1,5 +1,5 @@
 # Hi, I'm Sara 👋
-**Software Developer | Backend & Cloud 
+**Software Developer | Backend & Cloud** 
 
 ```pseudo
 if (problem.isComplex()) {
@@ -13,7 +13,7 @@ if (problem.isComplex()) {
 while (learning) {
     improve();
 }
-
+```
 ---
 
 ### 🟣 Tech Stack
