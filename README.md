@@ -1,8 +1,18 @@
 # Hi, I'm Sara 👋
-**Software Developer | Backend & Cloud Enthusiast**
+**Software Developer | Backend & Cloud 
 
-I am a dedicated Software Developer who views coding as a precise craft. 
-I specialize in building clean, maintainable, and efficient systems, with a focus on logic-driven solutions and high-quality performance.
+```pseudo
+if (problem.isComplex()) {
+    analyze(problem);
+    design(cleanArchitecture);
+    implement(solution);
+    test(edgeCases);
+    deploy(withCI_CD);
+}
+
+while (learning) {
+    improve();
+}
 
 ---
 
