@@ -14,7 +14,7 @@ while (learning) {
 }
 ```
 
-**Software Developer | Backend & Cloud** 
+**Software Developer**
 ---
 
 ### 🟣 Tech Stack
