@@ -24,7 +24,6 @@ while (learning) {
 * **Databases**  PostgreSQL, MongoDB, MySQL, SQL server
 * **Cloud & DevOps**  AWS, Terraform (IaC), Kubernetes (K8s), Docker, GitHub Actions
 * **Operating Systems**  Linux, Windows
-* **AI Tools**  ChatGPT, GitHub Copilot, Amazon Q, Claude
 
 ---
 
