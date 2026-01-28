@@ -1,7 +1,6 @@
 # Hi, I'm Sara 👋
-**Software Developer | Backend & Cloud** 
 
-```pseudo
+```javascript
 if (problem.isComplex()) {
     analyze(problem);
     design(cleanArchitecture);
@@ -14,6 +13,8 @@ while (learning) {
     improve();
 }
 ```
+
+**Software Developer | Backend & Cloud** 
 ---
 
 ### 🟣 Tech Stack
