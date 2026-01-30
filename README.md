@@ -34,4 +34,4 @@ while (learning) {
 * 💎 **Philosophy:** Believing in clean code that is elegant, practical, and easy to maintain.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaraVaisbord&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=SaraVaisbord&color=blue)
